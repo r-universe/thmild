@@ -8,3 +8,8 @@
 	url = https://github.com/thmild/equivump
 	shallow = true
 	registered = true
+[submodule "histogram"]
+	path = histogram
+	url = https://github.com/thmild/histogram
+	shallow = true
+	registered = true
