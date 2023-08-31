@@ -8,3 +8,6 @@
 [submodule "histogram"]
 	path = histogram
 	url = https://github.com/thmild/histogram
+[submodule "keyperm"]
+	path = keyperm
+	url = https://github.com/thmild/keyperm
